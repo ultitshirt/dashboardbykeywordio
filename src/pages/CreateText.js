@@ -17,7 +17,7 @@ export default function CreateText() {
         setShow(true)
         setTimeout(() => {
             navigate('/createads')
-        }, 3000)
+        }, 600)
     }
     return (
         <div>
