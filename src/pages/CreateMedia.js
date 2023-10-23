@@ -16,7 +16,7 @@ export default function CreateMedia() {
         setShow(true)
         setTimeout(() => {
             navigate('/createads')
-        }, 2000)
+        }, 600)
     }
     return (
         <div>
